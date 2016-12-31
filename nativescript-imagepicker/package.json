@@ -18,7 +18,6 @@
   },
   "main": "viewmodel.js",
   "devDependencies": {
-    "tns-platform-declarations": "next",
     "typescript": "^2.0.3"
   },
   "scripts": {
